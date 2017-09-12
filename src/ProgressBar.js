@@ -107,4 +107,5 @@ ProgressBar.STATE = {
 };
 Soy.register(ProgressBar, templates);
 
+export { ProgressBar };
 export default ProgressBar;
